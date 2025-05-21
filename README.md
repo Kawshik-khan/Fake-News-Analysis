@@ -43,6 +43,9 @@ The project uses the `fake_or_real_news.csv` dataset. This dataset contains news
           F1-score : 
                         REAL : 0.89
                         FAKE : 0.87
+                        -<p align='center'>
+<img src="https://raw.githubusercontent.com/Kawshik-khan/Fake-News-Analysis/main/confusion%20Matrix.png" alt="All Data" />
+   <p align='center'>
 
 8.  **Prediction on New Data:**
     *   Demonstrate how to use the trained model to predict the label of new, unseen news articles.
