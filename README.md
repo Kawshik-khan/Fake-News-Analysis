@@ -32,7 +32,19 @@ The project uses the `fake_or_real_news.csv` dataset. This dataset contains news
     *   Evaluate the trained model's performance on the testing set using metrics like accuracy, precision, recall, and F1-score.
     *   Visualize the performance using a confusion matrix to understand how well the model distinguishes between real and fake news.
 
-7.  **Prediction on New Data:**
+7. **Model Score**
+    *   Model Score are : 0.8800315706393055
+    *     Precision : 
+                        REAL : 0.85
+                        FAKE : 0.91
+          Recall :
+                        REAL : 0.93
+                        FAKE : 0.83
+          F1-score : 
+                        REAL : 0.89
+                        FAKE : 0.87
+
+8.  **Prediction on New Data:**
     *   Demonstrate how to use the trained model to predict the label of new, unseen news articles.
 
 ## Code Structure
